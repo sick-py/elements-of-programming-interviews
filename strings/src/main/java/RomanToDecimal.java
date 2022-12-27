@@ -1,7 +1,7 @@
 public class RomanToDecimal {
 
-    /*
-    7.9
+    /**
+     * we should go the the real one instead of this fake one
     */
 
     public static int romanToDecimal(String roman) {
